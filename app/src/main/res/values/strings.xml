@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kalkulator Sederhana</string>
+    <string name="masukkan_nilai_1">Masukkan nilai 1</string>
+    <string name="masukkan_nilai_2" />
+    <string name="calculate">CALCULATE</string>
+    <string name="multi">×</string>
+    <string name="div">:</string>
+    <string name="clear">CLEAR</string>
+</resources>
